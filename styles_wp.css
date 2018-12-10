@@ -1,0 +1,94 @@
+/* index.html  */
+
+
+* {
+	font-family:Tahoma;
+	background-color:#EAEAEA;
+}
+
+
+#top_image {
+	width:53em;
+	height:130px;
+	border:groove #EEC900;
+	border-radius:15px;
+}
+
+#figcaption1 {
+	font-size:14px;
+	text-align:right;
+}
+
+#line {
+    padding-bottom: 10px;
+	border-bottom: 2px solid; 
+}
+	
+#my_photo {
+	float:right;
+	margin-right:2em;
+	width:73px;
+	height:83px
+}
+
+#h1vmwebpage {
+	font-size:24pt;
+	color:#2E2E2E;
+	text-align:center;
+	margin-left:4em;
+}
+
+.nav_ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a:not(.comments) {
+    display: block;
+	width: 105px;
+    padding: 5px 16px;
+    text-decoration: none;
+	background-color:#63B8FF;
+	color:#CD0000;
+	border: 1px solid #EEEE00;
+}
+
+li a:hover:not(.comments) {
+    background-color:#555;
+    color:#E066FF;
+}
+
+#h1intro {
+	text-align:center;
+	font-size:25px;
+	text-decoration:underline dashed #EE0000;
+}
+
+#intro_text {
+  font-size:18px;
+  margin-top:1em;
+  margin-left:2em;
+  color:#8B4500;
+}
+
+#comments_head {
+	margin-top:2em;
+	text-align:center;
+	font-size:25px;
+	text-decoration: underline wavy #CD2990;
+}
+
+.comments {
+	text-decoration:none;
+}
+
+
+
+/* history.html */
+
+#history_head {
+	text-align:center;
+	text-decoration:underline wavy green;
+}
+
