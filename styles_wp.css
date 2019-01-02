@@ -9,8 +9,7 @@
 
 #top_image {
 	width:100%;
-	max-width:100%;
-	min-width:200px;
+	min-width:100px;
 	height:130px;
 	border:groove #EEC900;
 	border-radius:15px;
